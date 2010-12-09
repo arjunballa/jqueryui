@@ -1,0 +1,4 @@
+[submodule "steal"]
+	path = steal
+	url = git://github.com/jupiterjs/steal.git
+	update = merge
