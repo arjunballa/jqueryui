@@ -16,7 +16,7 @@
  *	jquery.ui.position.js
  *	jquery.ui.resizable.js
  */
-steal.plugins("jquery/ui/core", "jquery/ui/widget", "jquery/ui/position").then(function( $, undefined ) {
+steal.plugins("jqueryui/core", "jqueryui/widget", "jqueryui/position").then(function( $, undefined ) {
 
 var uiDialogClasses =
 		'ui-dialog ' +

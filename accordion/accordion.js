@@ -11,7 +11,7 @@
  *	jquery.ui.core.js
  *	jquery.ui.widget.js
  */
-steal.plugins("jquery/ui/core", "jquery/ui/widget").then(function( $, undefined ) {
+steal.plugins("jqueryui/core", "jqueryui/widget").then(function( $, undefined ) {
 
 $.widget( "ui.accordion", {
 	options: {

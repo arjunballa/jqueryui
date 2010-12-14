@@ -10,7 +10,7 @@
  * Depends:
  *	jquery.effects.core.js
  */
-steal.plugins("jquery/effects/core").then(function( $, undefined ) {
+steal.plugins("jqueryui/effects/core").then(function( $, undefined ) {
 
 $.effects.highlight = function(o) {
 	return this.queue(function() {

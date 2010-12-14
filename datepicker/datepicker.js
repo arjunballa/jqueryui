@@ -10,7 +10,7 @@
  * Depends:
  *	jquery.ui.core.js
  */
-steal.plugins("jquery/ui/core").then(function( $, undefined ) {
+steal.plugins("jqueryui/core").then(function( $, undefined ) {
 
 $.extend($.ui, { datepicker: { version: "@VERSION" } });
 

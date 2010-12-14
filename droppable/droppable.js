@@ -13,7 +13,7 @@
  *	jquery.ui.mouse.js
  *	jquery.ui.draggable.js
  */
-steal.plugins("jquery/ui/core", "jquery/ui/widget", "jquery/ui/mouse", "jquery/ui/draggable").then(function( $, undefined ) {
+steal.plugins("jqueryui/core", "jqueryui/widget", "jqueryui/mouse", "jqueryui/draggable").then(function( $, undefined ) {
 
 $.widget("ui.droppable", {
 	widgetEventPrefix: "drop",
