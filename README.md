@@ -7,3 +7,8 @@ If you want to use jQuery UI, go to [jqueryui.com](http://jqueryui.com) to get s
 
 If you are interested in helping developing jQuery UI, you are in the right place.
 To discuss development with team members and the community, visit the [Developing jQuery UI Forum](http://forum.jquery.com/developing-jquery-ui).
+
+[StealJS](http://javascriptmvc.com/#&who=stealjs) - A JavaScript build tool
+================================
+
+The StealJS project is a collection of comamnd and client based JavaScript utilities that make building, packaging, sharing and consuming JavaScript applications easy.
