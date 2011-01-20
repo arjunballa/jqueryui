@@ -370,4 +370,4 @@ $.widget( "ui.buttonset", {
 	}
 });
 
-}( jQuery ) );
+});
