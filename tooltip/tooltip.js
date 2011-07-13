@@ -12,4 +12,4 @@
  *	jquery.ui.widget.js
  *	jquery.ui.position.js
  */
-steal.plugins('jqueryui/core', 'jqueryui/widget', 'jqueryui/position').then('../lib/ui/jquery.ui.tooltip.js');
+steal('jqueryui/core', 'jqueryui/widget', 'jqueryui/position').then('../lib/ui/jquery.ui.tooltip.js');

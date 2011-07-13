@@ -12,4 +12,4 @@
  *	jquery.ui.mouse.js
  *	jquery.ui.widget.js
  */
-steal.plugins('jqueryui/core', 'jqueryui/widget', 'jqueryui/mouse').then('../lib/ui/jquery.ui.resizable.js');
+steal('jqueryui/core', 'jqueryui/widget', 'jqueryui/mouse').then('../lib/ui/jquery.ui.resizable.js');

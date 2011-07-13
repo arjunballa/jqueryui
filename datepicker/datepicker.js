@@ -10,4 +10,4 @@
  * Depends:
  *	jquery.ui.core.js
  */
-steal.plugins('jqueryui/core').then('../lib/ui/jquery.ui.datepicker.js');
+steal('jqueryui/core').then('../lib/ui/jquery.ui.datepicker.js');
