@@ -10,4 +10,4 @@
  * Depends:
  *	jquery.effects.core.js
  */
-steal.plugins('jqueryui/effects/core').then('../../lib/ui/jquery.effects.transfer.js');
+steal('jqueryui/effects/core').then('../../lib/ui/jquery.effects.transfer.js');

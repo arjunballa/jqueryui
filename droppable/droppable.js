@@ -13,4 +13,4 @@
  *	jquery.ui.mouse.js
  *	jquery.ui.draggable.js
  */
-steal.plugins('jqueryui/core', 'jqueryui/widget', 'jqueryui/mouse', 'jqueryui/draggable').then('../lib/ui/jquery.ui.droppable.js');
+steal('jqueryui/core', 'jqueryui/widget', 'jqueryui/mouse', 'jqueryui/draggable').then('../lib/ui/jquery.ui.droppable.js');

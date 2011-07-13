@@ -1,4 +1,4 @@
-steal.plugins(
+steal(
 	"jqueryui/effects/blind",
 	"jqueryui/effects/bounce",
 	"jqueryui/effects/blind",

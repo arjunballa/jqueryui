@@ -1,5 +1,5 @@
 // Steal everything
-steal.plugins(
+steal(
 	"jqueryui/accordion",
 	"jqueryui/autocomplete",
 	"jqueryui/button",

@@ -10,4 +10,4 @@
  * Depends:
  *	jquery.ui.widget.js
  */
-steal.plugins("jqueryui/core", "jqueryui/widget").then('../lib/ui/jquery.ui.mouse.js');
+steal("jqueryui/core", "jqueryui/widget").then('../lib/ui/jquery.ui.mouse.js');
