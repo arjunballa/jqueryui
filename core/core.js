@@ -7,4 +7,5 @@
  *
  * http://docs.jquery.com/UI
  */
-steal('../lib/ui/jquery.ui.core.js');
+steal('../stealjquery.js')
+.then('../lib/ui/jquery.ui.core.js');

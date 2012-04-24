@@ -7,4 +7,5 @@
  *
  * http://docs.jquery.com/UI/Widget
  */
-steal('../lib/ui/jquery.ui.widget.js');
+steal('../stealjquery.js')
+.then('../lib/ui/jquery.ui.widget.js');

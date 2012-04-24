@@ -12,4 +12,4 @@
  *	jquery.ui.widget.js
  *	jquery.ui.position.js
  */
-steal('jqueryui/core', 'jqueryui/widget', 'jqueryui/position', 'jqueryui/menu').then('../lib/ui/jquery.ui.autocomplete.js');
+steal('../core/core.js', '../widget/widget.js', '../position/position.js', '../menu/menu.js').then('../lib/ui/jquery.ui.autocomplete.js');

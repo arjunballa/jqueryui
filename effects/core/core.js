@@ -7,4 +7,7 @@
  *
  * http://docs.jquery.com/UI/Effects/
  */
-if(!jQuery.effects) steal('../../lib/ui/jquery.effects.core.js');
+steal('../../stealjquery').then(function($) {
+	if(!jQuery.effects)
+		steal('../../lib/ui/jquery.effects.core.js');
+});

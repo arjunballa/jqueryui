@@ -11,4 +11,4 @@
  *  jquery.ui.core.js
  *  jquery.ui.widget.js
  */
-steal('jqueryui/core', 'jqueryui/widget', 'jqueryui/button').then('../lib/ui/jquery.ui.spinner.js');
+steal('../core/core.js', '../widget/widget.js', '../button/button.js').then('../lib/ui/jquery.ui.spinner.js');

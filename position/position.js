@@ -7,4 +7,5 @@
  *
  * http://docs.jquery.com/UI/Position
  */
-steal('../lib/ui/jquery.ui.position.js');
+steal('../stealjquery.js')
+.then('../lib/ui/jquery.ui.position.js');

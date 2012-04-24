@@ -10,4 +10,4 @@
  * Depends:
  *	jquery.effects.core.js
  */
-steal('jqueryui/effects/core').then('../../lib/ui/jquery.effects.blind.js');
+steal('../core/core.js').then('../../lib/ui/jquery.effects.blind.js');

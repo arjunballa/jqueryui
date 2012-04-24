@@ -16,4 +16,4 @@
  *	jquery.ui.position.js
  *	jquery.ui.resizable.js
  */
-steal('jqueryui/core', 'jqueryui/widget', 'jqueryui/position', 'jqueryui/mouse').then('../lib/ui/jquery.ui.dialog.js');
+steal('../core/core.js', '../widget/widget.js', '../position/position.js', '../mouse/mouse.js').then('../lib/ui/jquery.ui.dialog.js');
