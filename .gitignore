@@ -6,3 +6,7 @@ docs
 *.patch
 .DS_Store
 .settings
+test/*
+steal/*
+jquery/*
+qunit.html
