@@ -6,7 +6,7 @@ steal(
 	"./datepicker/datepicker.js",
 	"./dialog/dialog.js",
 	"./draggable/draggable.js",
-	"./draggable/draggable.js",
+	"./droppable/droppable.js",
 	"./effects/effects.js",
 	"./mouse/mouse.js",
 	"./position/position.js",
