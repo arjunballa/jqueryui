@@ -1,16 +1,16 @@
 steal(
-	"./blind/blind.js",
-	"./bounce/bounce.js",
-	"./blind/blind.js",
-	"./clip/clip.js",
-	"./drop/drop.js",
-	"./explode/explode.js",
-	"./fade/fade.js",
-	"./fold/fold.js",
-	"./highlight/highlight.js",
-	"./pulsate/pulsate.js",
-	"./scale/scale.js",
-	"./shake/shake.js",
-	"./slide/slide.js",
-	"./transfer/transfer.js"
-)
+	'./blind/blind.js',
+	'./bounce/bounce.js',
+	'./blind/blind.js',
+	'./clip/clip.js',
+	'./drop/drop.js',
+	'./explode/explode.js',
+	'./fade/fade.js',
+	'./fold/fold.js',
+	'./highlight/highlight.js',
+	'./pulsate/pulsate.js',
+	'./scale/scale.js',
+	'./shake/shake.js',
+	'./slide/slide.js',
+	'./transfer/transfer.js'
+);

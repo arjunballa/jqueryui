@@ -12,4 +12,4 @@
  *	jquery.ui.mouse.js
  *	jquery.ui.widget.js
  */
-steal('../core/core.js', '../widget/widget.js').then('../mouse/mouse.js').then('../lib/ui/jquery.ui.draggable.js');
+steal('../mouse/mouse.js').then('../lib/ui/jquery.ui.draggable.js');
